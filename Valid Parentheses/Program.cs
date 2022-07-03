@@ -2,7 +2,7 @@
 
 bool IsValid(string s)
 {
-    //TODO: handle the scenario "[()]"
+    //TODO: handle the scenario "[()]" 
     var strings = s.ToCharArray();
     var dictionary = new Dictionary<string, string>()
     {
