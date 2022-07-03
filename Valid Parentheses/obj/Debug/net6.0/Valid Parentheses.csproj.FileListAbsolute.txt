@@ -1,0 +1,15 @@
+/Users/michelle/Git/LeetCode/Valid Parentheses/bin/Debug/net6.0/Valid Parentheses
+/Users/michelle/Git/LeetCode/Valid Parentheses/bin/Debug/net6.0/Valid Parentheses.deps.json
+/Users/michelle/Git/LeetCode/Valid Parentheses/bin/Debug/net6.0/Valid Parentheses.runtimeconfig.json
+/Users/michelle/Git/LeetCode/Valid Parentheses/bin/Debug/net6.0/Valid Parentheses.dll
+/Users/michelle/Git/LeetCode/Valid Parentheses/bin/Debug/net6.0/Valid Parentheses.pdb
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.csproj.AssemblyReference.cache
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.AssemblyInfoInputs.cache
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.AssemblyInfo.cs
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.csproj.CoreCompileInputs.cache
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.dll
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/refint/Valid Parentheses.dll
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.pdb
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/Valid Parentheses.genruntimeconfig.cache
+/Users/michelle/Git/LeetCode/Valid Parentheses/obj/Debug/net6.0/ref/Valid Parentheses.dll

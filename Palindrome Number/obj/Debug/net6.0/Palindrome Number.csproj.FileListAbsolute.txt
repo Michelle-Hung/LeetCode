@@ -1,0 +1,15 @@
+/Users/michelle/Git/LeetCode/Palindrome Number/bin/Debug/net6.0/Palindrome Number
+/Users/michelle/Git/LeetCode/Palindrome Number/bin/Debug/net6.0/Palindrome Number.deps.json
+/Users/michelle/Git/LeetCode/Palindrome Number/bin/Debug/net6.0/Palindrome Number.runtimeconfig.json
+/Users/michelle/Git/LeetCode/Palindrome Number/bin/Debug/net6.0/Palindrome Number.dll
+/Users/michelle/Git/LeetCode/Palindrome Number/bin/Debug/net6.0/Palindrome Number.pdb
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.csproj.AssemblyReference.cache
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.AssemblyInfoInputs.cache
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.AssemblyInfo.cs
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.csproj.CoreCompileInputs.cache
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.dll
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/refint/Palindrome Number.dll
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.pdb
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/Palindrome Number.genruntimeconfig.cache
+/Users/michelle/Git/LeetCode/Palindrome Number/obj/Debug/net6.0/ref/Palindrome Number.dll
